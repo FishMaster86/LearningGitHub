@@ -1,0 +1,111 @@
+{
+
+"002": {
+"Number": "SCP-002",
+"SCP002": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["yes", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
+},
+
+"003": {
+"Number": "SCP-003",
+"SCP003": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["yes", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
+},
+
+"004": {
+"Number": "SCP-004",
+"SCP004": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
+},
+
+"005": {
+"Number": "SCP-005",
+"SCP005": ["yes", "its number question"],
+"Safe": ["yes", "object class question"],
+"Euclid": ["no", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
+},
+
+"006": {
+"Number": "SCP-006",
+"SCP006": ["yes", "its number question"],
+"Safe": ["yes", "object class question"],
+"Euclid": ["no", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["no", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
+},
+
+"007": {
+"Number": "SCP-007",
+"SCP007": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["no", "article question"],
+"Does the article include something other then the special containment procedures and description": ["no", "article question"],
+"Is the anomality alive": ["yes", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
+},
+
+"008": {
+"Number": "SCP-008",
+"SCP008": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["yes", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
+},
+
+"009": {
+"Number": "SCP-009",
+"SCP009": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
+},
+
+"010": {
+"Number": "SCP-010",
+"SCP010": ["yes", "its number question"],
+"Safe": ["yes", "object class question"],
+"Euclid": ["no", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["no", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
+}
+
+}
