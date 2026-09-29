@@ -172,18 +172,3 @@
 }
 
 
-
-/*
-Template
-"XXX": {
-"Number": "SCP-XXX",
-"SCPXXX": ["XXX", "its number question"],
-"Safe": ["XXX", "object class question"],
-"Euclid": ["XXX", "object class question"],
-"Keter": ["XXX", "object class question"],
-"Does the article have an image": ["XXX", "article question"],
-"Does the article include something other then the special containment procedures and description": ["XXX", "article question"],
-"Is the anomality alive": ["XXX", "adjective question"],
-"Does a person die in the article": ["XXX", "article question"]
-}
-*/
