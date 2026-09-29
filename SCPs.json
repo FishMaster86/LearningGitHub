@@ -118,6 +118,72 @@
 "Does the article include something other then the special containment procedures and description": ["yes", "article question"],
 "Is the anomality alive": ["no", "adjective question"],
 "Does a person die in the article": ["no", "article question"]
+},
+    
+"012": {
+"Number": "SCP-012",
+"SCP012": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["no", "article question"],
+"Does the article include something other then the special containment procedures and description": ["no", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
+},
+
+"013": {
+"Number": "SCP-013",
+"SCP013": ["yes", "its number question"],
+"Safe": ["yes", "object class question"],
+"Euclid": ["no", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
+},
+
+"014": {
+"Number": "SCP-014",
+"SCP014": ["yes", "its number question"],
+"Safe": ["yes", "object class question"],
+"Euclid": ["no", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["yes", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
+},
+
+"015": {
+"Number": "SCP-015",
+"SCP015": ["yes", "its number question"],
+"Safe": ["no", "object class question"],
+"Euclid": ["yes", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["no", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["yes", "article question"]
 }
 
+  
 }
+
+
+
+/*
+Template
+"XXX": {
+"Number": "SCP-XXX",
+"SCPXXX": ["XXX", "its number question"],
+"Safe": ["XXX", "object class question"],
+"Euclid": ["XXX", "object class question"],
+"Keter": ["XXX", "object class question"],
+"Does the article have an image": ["XXX", "article question"],
+"Does the article include something other then the special containment procedures and description": ["XXX", "article question"],
+"Is the anomality alive": ["XXX", "adjective question"],
+"Does a person die in the article": ["XXX", "article question"]
+}
+*/
