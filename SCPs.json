@@ -106,6 +106,18 @@
 "Does the article include something other then the special containment procedures and description": ["yes", "article question"],
 "Is the anomality alive": ["no", "adjective question"],
 "Does a person die in the article": ["yes", "article question"]
+},
+  
+"011": {
+"Number": "SCP-011",
+"SCP011": ["yes", "its number question"],
+"Safe": ["yes", "object class question"],
+"Euclid": ["no", "object class question"],
+"Keter": ["no", "object class question"],
+"Does the article have an image": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Is the anomality alive": ["no", "adjective question"],
+"Does a person die in the article": ["no", "article question"]
 }
 
 }
