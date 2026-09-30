@@ -16,7 +16,7 @@
 "Euclid": ["yes", "object class question"],
 "Does the article have an image": ["yes", "article question"],
 "Does the article include something other then the special containment procedures and description": ["yes", "article question"],
-"Is the anomality alive": ["yes", "adjective question"],
+"Is the anomality alive": ["yes", "adjective question"]
 },
 
 "004": {
@@ -33,21 +33,21 @@
 "SCP005": ["yes", "its number question"],
 "Safe": ["yes", "object class question"],
 "Does the article have an image": ["yes", "article question"],
-"Does the article include something other then the special containment procedures and description": ["yes", "article question"],
+"Does the article include something other then the special containment procedures and description": ["yes", "article question"]
 },
 
 "006": {
 "Number": "SCP-006",
 "SCP006": ["yes", "its number question"],
 "Safe": ["yes", "object class question"],
-"Does the article have an image": ["yes", "article question"],
+"Does the article have an image": ["yes", "article question"]
 },
 
 "007": {
 "Number": "SCP-007",
 "SCP007": ["yes", "its number question"],
 "Euclid": ["yes", "object class question"],
-"Is the anomality alive": ["yes", "adjective question"],
+"Is the anomality alive": ["yes", "adjective question"]
 },
 
 "008": {
@@ -56,7 +56,7 @@
 "Euclid": ["yes", "object class question"],
 "Does the article have an image": ["yes", "article question"],
 "Does the article include something other then the special containment procedures and description": ["yes", "article question"],
-"Is the anomality alive": ["yes", "adjective question"],
+"Is the anomality alive": ["yes", "adjective question"]
 },
 
 "009": {
